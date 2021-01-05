@@ -1,0 +1,10 @@
+1. to install typescript globally
+// npm install -g typescript
+
+2. to run a typescript file // it will be converted to javascript
+// tsc example.ts --target ES5
+
+3. for linux and mac // you can keep checking for changes with 
+// tsc *.ts --watch ES5
+
+4. interface is a complexe data type
